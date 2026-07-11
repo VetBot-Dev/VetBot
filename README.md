@@ -1,7 +1,7 @@
 # 👑 VetBot Pro — Smart Automation for Tantra Online
 
 <p align="center">
-  <img src="data/vetbot.ico" alt="VetBot Logo" width="100"/>
+  <img src="data/VetBot.png" alt="VetBot Logo" width="100"/>
 </p>
 
 <p align="center">
